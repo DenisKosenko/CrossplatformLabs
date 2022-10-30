@@ -1,0 +1,30 @@
+C:/Users/plast/OneDrive/Рабочий стол/CrossProg/Lab2_6/Lab2_6/bin/Debug/net6.0/Lab2_6.exe
+C:/Users/plast/OneDrive/Рабочий стол/CrossProg/Lab2_6/Lab2_6/bin/Debug/net6.0/Lab2_6.deps.json
+C:/Users/plast/OneDrive/Рабочий стол/CrossProg/Lab2_6/Lab2_6/bin/Debug/net6.0/Lab2_6.runtimeconfig.json
+C:/Users/plast/OneDrive/Рабочий стол/CrossProg/Lab2_6/Lab2_6/bin/Debug/net6.0/Lab2_6.dll
+C:/Users/plast/OneDrive/Рабочий стол/CrossProg/Lab2_6/Lab2_6/bin/Debug/net6.0/Lab2_6.pdb
+C:/Users/plast/OneDrive/Рабочий стол/CrossProg/Lab2_6/Lab2_6/obj/Debug/net6.0/Lab2_6.csproj.AssemblyReference.cache
+C:/Users/plast/OneDrive/Рабочий стол/CrossProg/Lab2_6/Lab2_6/obj/Debug/net6.0/Lab2_6.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/plast/OneDrive/Рабочий стол/CrossProg/Lab2_6/Lab2_6/obj/Debug/net6.0/Lab2_6.AssemblyInfoInputs.cache
+C:/Users/plast/OneDrive/Рабочий стол/CrossProg/Lab2_6/Lab2_6/obj/Debug/net6.0/Lab2_6.AssemblyInfo.cs
+C:/Users/plast/OneDrive/Рабочий стол/CrossProg/Lab2_6/Lab2_6/obj/Debug/net6.0/Lab2_6.csproj.CoreCompileInputs.cache
+C:/Users/plast/OneDrive/Рабочий стол/CrossProg/Lab2_6/Lab2_6/obj/Debug/net6.0/Lab2_6.dll
+C:/Users/plast/OneDrive/Рабочий стол/CrossProg/Lab2_6/Lab2_6/obj/Debug/net6.0/refint/Lab2_6.dll
+C:/Users/plast/OneDrive/Рабочий стол/CrossProg/Lab2_6/Lab2_6/obj/Debug/net6.0/Lab2_6.pdb
+C:/Users/plast/OneDrive/Рабочий стол/CrossProg/Lab2_6/Lab2_6/obj/Debug/net6.0/Lab2_6.genruntimeconfig.cache
+C:/Users/plast/OneDrive/Рабочий стол/CrossProg/Lab2_6/Lab2_6/obj/Debug/net6.0/ref/Lab2_6.dll
+/Users/deniskosenko/Documents/CrossplatformLabs/Lab2_6/Lab2_6/bin/Debug/net6.0/Lab2_6
+/Users/deniskosenko/Documents/CrossplatformLabs/Lab2_6/Lab2_6/bin/Debug/net6.0/Lab2_6.deps.json
+/Users/deniskosenko/Documents/CrossplatformLabs/Lab2_6/Lab2_6/bin/Debug/net6.0/Lab2_6.runtimeconfig.json
+/Users/deniskosenko/Documents/CrossplatformLabs/Lab2_6/Lab2_6/bin/Debug/net6.0/Lab2_6.dll
+/Users/deniskosenko/Documents/CrossplatformLabs/Lab2_6/Lab2_6/bin/Debug/net6.0/Lab2_6.pdb
+/Users/deniskosenko/Documents/CrossplatformLabs/Lab2_6/Lab2_6/obj/Debug/net6.0/Lab2_6.csproj.AssemblyReference.cache
+/Users/deniskosenko/Documents/CrossplatformLabs/Lab2_6/Lab2_6/obj/Debug/net6.0/Lab2_6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskosenko/Documents/CrossplatformLabs/Lab2_6/Lab2_6/obj/Debug/net6.0/Lab2_6.AssemblyInfoInputs.cache
+/Users/deniskosenko/Documents/CrossplatformLabs/Lab2_6/Lab2_6/obj/Debug/net6.0/Lab2_6.AssemblyInfo.cs
+/Users/deniskosenko/Documents/CrossplatformLabs/Lab2_6/Lab2_6/obj/Debug/net6.0/Lab2_6.csproj.CoreCompileInputs.cache
+/Users/deniskosenko/Documents/CrossplatformLabs/Lab2_6/Lab2_6/obj/Debug/net6.0/Lab2_6.dll
+/Users/deniskosenko/Documents/CrossplatformLabs/Lab2_6/Lab2_6/obj/Debug/net6.0/refint/Lab2_6.dll
+/Users/deniskosenko/Documents/CrossplatformLabs/Lab2_6/Lab2_6/obj/Debug/net6.0/Lab2_6.pdb
+/Users/deniskosenko/Documents/CrossplatformLabs/Lab2_6/Lab2_6/obj/Debug/net6.0/Lab2_6.genruntimeconfig.cache
+/Users/deniskosenko/Documents/CrossplatformLabs/Lab2_6/Lab2_6/obj/Debug/net6.0/ref/Lab2_6.dll
