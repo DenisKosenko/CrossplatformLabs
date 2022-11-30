@@ -1,0 +1,10 @@
+C:\Users\rosal\Desktop\dklab4\dklab4\bin\Debug\net6.0\publish\dklab4.exe
+C:\Users\rosal\Desktop\dklab4\dklab4\bin\Debug\net6.0\publish\dklab4.dll
+C:\Users\rosal\Desktop\dklab4\dklab4\bin\Debug\net6.0\publish\dklab4.runtimeconfig.json
+C:\Users\rosal\Desktop\dklab4\dklab4\bin\Debug\net6.0\publish\dklab4.pdb
+C:\Users\rosal\Desktop\dklab4\dklab4\bin\Debug\net6.0\publish\McMaster.Extensions.CommandLineUtils.dll
+C:\Users\rosal\Desktop\dklab4\dklab4\bin\Debug\net6.0\publish\Alchemy.dll
+C:\Users\rosal\Desktop\dklab4\dklab4\bin\Debug\net6.0\publish\LabsLibrary.dll
+C:\Users\rosal\Desktop\dklab4\dklab4\bin\Debug\net6.0\publish\LabsLibrary.pdb
+C:\Users\rosal\Desktop\dklab4\dklab4\bin\Debug\net6.0\publish\Alchemy.pdb
+C:\Users\rosal\Desktop\dklab4\dklab4\bin\Debug\net6.0\publish\dklab4.deps.json

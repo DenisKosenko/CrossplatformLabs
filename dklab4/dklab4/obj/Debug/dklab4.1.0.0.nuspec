@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>dklab4</id>
+    <version>1.0.0</version>
+    <authors>dklab4</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="C:\Users\rosal\Desktop\dklab4\dklab4\obj\DotnetToolSettings.xml" target="tools\net6.0\any\DotnetToolSettings.xml" />
+    <file src="C:\Users\rosal\Desktop\dklab4\dklab4\bin\Debug\net6.0\publish\dklab4.dll" target="tools\net6.0\any\dklab4.dll" />
+    <file src="C:\Users\rosal\Desktop\dklab4\dklab4\bin\Debug\net6.0\publish\dklab4.runtimeconfig.json" target="tools\net6.0\any\dklab4.runtimeconfig.json" />
+    <file src="C:\Users\rosal\Desktop\dklab4\dklab4\bin\Debug\net6.0\publish\dklab4.pdb" target="tools\net6.0\any\dklab4.pdb" />
+    <file src="C:\Users\rosal\Desktop\dklab4\dklab4\bin\Debug\net6.0\publish\McMaster.Extensions.CommandLineUtils.dll" target="tools\net6.0\any\McMaster.Extensions.CommandLineUtils.dll" />
+    <file src="C:\Users\rosal\Desktop\dklab4\dklab4\bin\Debug\net6.0\publish\Alchemy.dll" target="tools\net6.0\any\Alchemy.dll" />
+    <file src="C:\Users\rosal\Desktop\dklab4\dklab4\bin\Debug\net6.0\publish\LabsLibrary.dll" target="tools\net6.0\any\LabsLibrary.dll" />
+    <file src="C:\Users\rosal\Desktop\dklab4\dklab4\bin\Debug\net6.0\publish\LabsLibrary.pdb" target="tools\net6.0\any\LabsLibrary.pdb" />
+    <file src="C:\Users\rosal\Desktop\dklab4\dklab4\bin\Debug\net6.0\publish\Alchemy.pdb" target="tools\net6.0\any\Alchemy.pdb" />
+    <file src="C:\Users\rosal\Desktop\dklab4\dklab4\bin\Debug\net6.0\publish\dklab4.deps.json" target="tools\net6.0\any\dklab4.deps.json" />
+  </files>
+</package>
