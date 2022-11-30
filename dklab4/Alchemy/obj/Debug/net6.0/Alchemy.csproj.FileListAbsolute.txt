@@ -1,0 +1,12 @@
+C:\Users\rosal\Desktop\dklab4\Alchemy\bin\Debug\net6.0\Alchemy.deps.json
+C:\Users\rosal\Desktop\dklab4\Alchemy\bin\Debug\net6.0\Alchemy.dll
+C:\Users\rosal\Desktop\dklab4\Alchemy\bin\Debug\net6.0\Alchemy.pdb
+C:\Users\rosal\Desktop\dklab4\Alchemy\obj\Debug\net6.0\Alchemy.csproj.AssemblyReference.cache
+C:\Users\rosal\Desktop\dklab4\Alchemy\obj\Debug\net6.0\Alchemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosal\Desktop\dklab4\Alchemy\obj\Debug\net6.0\Alchemy.AssemblyInfoInputs.cache
+C:\Users\rosal\Desktop\dklab4\Alchemy\obj\Debug\net6.0\Alchemy.AssemblyInfo.cs
+C:\Users\rosal\Desktop\dklab4\Alchemy\obj\Debug\net6.0\Alchemy.csproj.CoreCompileInputs.cache
+C:\Users\rosal\Desktop\dklab4\Alchemy\obj\Debug\net6.0\Alchemy.dll
+C:\Users\rosal\Desktop\dklab4\Alchemy\obj\Debug\net6.0\refint\Alchemy.dll
+C:\Users\rosal\Desktop\dklab4\Alchemy\obj\Debug\net6.0\Alchemy.pdb
+C:\Users\rosal\Desktop\dklab4\Alchemy\obj\Debug\net6.0\ref\Alchemy.dll

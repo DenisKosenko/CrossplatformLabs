@@ -1,0 +1,7 @@
+6
+a
+ab
+abc
+bcd
+bcdx
+add

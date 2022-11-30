@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LabsLibrary/1.0.0": {
+        "dependencies": {
+          "Alchemy": "1.0.0"
+        },
+        "runtime": {
+          "LabsLibrary.dll": {}
+        }
+      },
+      "Alchemy/1.0.0": {
+        "runtime": {
+          "Alchemy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LabsLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Alchemy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
