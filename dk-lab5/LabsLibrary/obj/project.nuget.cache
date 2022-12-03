@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OGom/Hs7N9GLzNKwVxb2Eycuf7LMkxXPbSJVWPJ9iAZpSn596SRDeKZdSG3eoxM7V/ibZZXnF0BAVG/wSOQAuQ==",
+  "success": true,
+  "projectFilePath": "/Users/deniskosenko/Documents/CrossplatformLabs/dk-lab5/LabsLibrary/LabsLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/deniskosenko/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/deniskosenko/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

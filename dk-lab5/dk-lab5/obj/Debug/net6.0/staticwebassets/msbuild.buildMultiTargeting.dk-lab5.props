@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/dk-lab5.props" />
+</Project>

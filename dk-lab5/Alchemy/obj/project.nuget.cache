@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lAKC3msvyshLM3aVVY9VWEczaV27hxadqn5m/rSJkwatAUH+Ziq8o1JJwA51fcG19N0Bl1R7zAuiZ609WvzStQ==",
+  "success": true,
+  "projectFilePath": "/Users/deniskosenko/Documents/CrossplatformLabs/dk-lab5/Alchemy/Alchemy.csproj",
+  "expectedPackageFiles": [
+    "/Users/deniskosenko/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/deniskosenko/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

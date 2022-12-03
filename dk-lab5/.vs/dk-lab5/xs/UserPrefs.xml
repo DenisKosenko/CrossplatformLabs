@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{48B8329A-EF3C-40A9-A674-59D8D2884255}|dk_lab5">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="dk-lab5/Properties/launchSettings.json">
+    <Files>
+      <File FileName="dk-lab5/Properties/launchSettings.json" Line="9" Column="5" />
+      <File FileName="dk-lab5/appsettings.json" Line="12" Column="62" />
+      <File FileName="dk-lab5/Startup.cs" Line="46" Column="4" />
+      <File FileName="dk-lab5/dk-lab5.csproj" Line="15" Column="18" />
+      <File FileName="dk-lab5/Views/Home/Index.cshtml" Line="7" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dk-lab5" expanded="True">
+            <Node name="dk-lab5" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True" />
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.dk-lab5 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
